@@ -1,3 +1,6 @@
+*{
+    background-color: #8db397;
+}
 #container{
     text-align: center;
     font-size: 2rem;
@@ -24,6 +27,7 @@ button:hover{
 #numberofdice{
     font-size: 2rem;
     width: 200px;
+    background-color: bisque;
 }
 #diceimg{
     margin-top: 20px;
